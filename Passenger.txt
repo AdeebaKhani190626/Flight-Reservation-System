@@ -1,0 +1,7 @@
+Writing Passenger Details ... 
+Passenger : 1
+Name             : Adeeba
+Gender           : female
+Age              : 20
+Address          : sdsf
+Passport Number  : 434323432

@@ -1,0 +1,17 @@
+Writing Reservation/Flight Details ... 
+Passenger : 1
+Name                 : Adeeba
+Gender               : female
+Age                  : 20
+Address              : sdsf
+Passport Number      : 434323432
+Ticket No #          : 28299
+Type of Plane        : AIR-0626
+Origin Point         : Islamabad
+Destination Point    : London
+Flight Date          : 01-03-2022
+Flight Time          : 10:09:13.994822600
+Class Name           : Business
+Plane Name           : Emirates Airlines
+Seat Number          : 40
+Fare                 : 2,15,000

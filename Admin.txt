@@ -1,0 +1,6 @@
+Writing Admin Details ... 
+Admin ID      : 2344
+Admin Name    : Adeeba
+Admin Age     : 20
+Admin Address : dss
+Admin Gender  : female
